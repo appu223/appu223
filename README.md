@@ -1,222 +1,58 @@
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:000000,100:434343&text=ALPHONSE%20NICCORI%20A&fontColor=ffffff&fontSize=48&animation=fadeIn&fontAlignY=40"/>
-
-<h1>Hi 👋 I'm Alphonse Niccori A</h1>
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3500&pause=1000&center=true&vCenter=true&width=850&lines=🐍+Python+Developer;📱+Flutter+Developer;🎨+UI%2FUX+Designer;🎯+Figma+Designer;🤖+IoT+Intern;📊+Data+Analytics+Enthusiast;🎬+Content+Creator;🚀+MCA+Student;💡+Always+Learning+New+Technologies"/>
-
-<p>
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=000000"/>
-
-<img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&logo=github"/>
-
-<img src="https://img.shields.io/github/stars/YOUR_USERNAME?style=for-the-badge"/>
-
+👋 Hi, I'm Alphonse Niccori A
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&text=Alphonse%20Niccori%20A&fontSize=45&fontColor=ffffff&color=0:000000,100:434343"/>{=html}
 </p>
-
-</div>
-
----
-
-# 💫 About Me
-
-<img align="right" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
-
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=Python+Developer;Flutter+Developer;UI%2FUX+Designer;Data+Analytics+Enthusiast;Always+Learning+New+Technologies"/>{=html}
+</p>
+<p align="center">
+<a href="https://github.com/AlphonseNiccori">{=html}<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>{=html}</a>{=html} <a href="https://www.linkedin.com/in/alphonse-niccori-568b45396">{=html}<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>{=html}</a>{=html} <a href="mailto:alphonseniccori123@gmail.com">{=html}<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>{=html}</a>{=html} <a href="https://alphonseportfolio.lovable.app/#projects">{=html}<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>{=html}</a>{=html}
+</p>
+💫 About Me
 🎓 MCA Student
-
-🎓 BCA Graduate – Don Bosco College (Co-Ed), Yelagiri Hills
-
+🎓 BCA Graduate -- Don Bosco College, Yelagiri Hills
 🐍 Python Developer
-
 📱 Flutter Developer
-
-🎨 UI/UX Designer
-
-🎯 Figma Designer
-
+🎨 UI/UX & Figma Designer
 🤖 IoT Intern
-
 📊 Data Analytics Enthusiast
-
-🎬 Content Creator
-
-🌱 Currently learning Flutter, Firebase, AI & Cloud
-
-💡 Passionate about creating real-world applications.
-
----
-
-# 🚀 Current Project
-
-## 🛒 Smart Grocery Application
-
-Modern Grocery Shopping App built using Flutter.
-
-### Features
-
-- Splash Screen
-- Authentication
-- Firebase Integration
-- Product Search
-- Categories
-- Wishlist
-- Shopping Cart
-- Checkout
-- Order Tracking
-- Dark Mode
-- Responsive Design
-
----
-
-# 💼 Internship Experience
-
-## 🎨 UI/UX Designer Intern
-
-- User Research
-- Wireframing
-- High Fidelity Design
-- Responsive UI
-- Figma Components
-- Interactive Prototype
-
----
-
-## 🤖 IoT Intern
-
-- IoT Devices
-- Embedded Systems
-- Sensor Integration
-- Smart Automation
-- Monitoring Systems
-
----
-
-## 📊 Data Analytics Intern
-
-- Excel
-- Python
-- Data Cleaning
-- Dashboard
-- Visualization
-
----
-
-# 💻 Tech Stack
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,dart,flutter,firebase,html,css,javascript,mysql,git,github,figma,vscode,androidstudio"/>
-
-</p>
-
----
-
-# 📂 Featured Projects
-
-### 🛒 Smart Grocery App
-
+🌱 Learning Flutter, Firebase, AI & Cloud
+🚀 Building real-world applications
+🚀 Featured Projects
+🛒 Smart Grocery App
 Flutter • Firebase • Provider
-
----
-
-### 💻 Smart Cyber Hub
-
+💻 Smart Cyber Hub
 PHP • MySQL • HTML • CSS • JavaScript
-
----
-
-### 🌐 Personal Portfolio
-
-Modern Responsive Portfolio Website
-
----
-
-### 📊 Data Analytics Dashboard
-
+🌐 Portfolio
+https://alphonseportfolio.lovable.app/#projects
+📊 Data Analytics Dashboard
 Python • Excel • Visualization
-
----
-
-# 📈 GitHub Stats
-
+💻 Tech Stack
 <p align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark"/>
-
-<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=github-dark"/>
-
+<img src="https://skillicons.dev/icons?i=python,dart,flutter,firebase,html,css,js,mysql,git,github,figma,vscode,androidstudio"/>{=html}
 </p>
-
+📊 GitHub Stats
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark"/>
-
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=AlphonseNiccori&show_icons=true&theme=github_dark"/>{=html} <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=AlphonseNiccori&theme=github-dark"/>{=html}
 </p>
-
----
-
-# 📊 Contribution Graph
-
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-compact"/>
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlphonseNiccori&layout=compact&theme=github_dark"/>{=html}
 </p>
-
----
-
-# 🏆 GitHub Trophies
-
+📈 Contribution Graph
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=onedark&row=2&column=4"/>
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AlphonseNiccori&theme=github-compact"/>{=html}
 </p>
-
----
-
-# 🐍 Contribution Snake
-
+🏆 GitHub Trophies
 <p align="center">
-
-<img src="https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg"/>
-
+<img src="https://github-profile-trophy.vercel.app/?username=AlphonseNiccori&theme=onedark&row=2&column=4"/>{=html}
 </p>
-
----
-
-# 🌍 Connect With Me
-
+🌍 Connect
+📧 Email: alphonseniccori123@gmail.com
+📱 Phone: +91 90920 38096
+💼 LinkedIn: https://www.linkedin.com/in/alphonse-niccori-568b45396
+🌐 Portfolio: https://alphonseportfolio.lovable.app/#projects
+🌐 Portfolio 2: https://alphonse-profile-mu.vercel.app/projects.html
+Code with Passion • Design with Purpose • Build for Impact 🚀
 <p align="center">
-
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="YOUR_PORTFOLIO">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
-</a>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=150&color=0:000000,100:434343"/>{=html}
 </p>
-
----
-
-<div align="center">
-
-### ⭐ Thanks for visiting my profile!
-
-> **Code with Passion • Design with Purpose • Build for Impact 🚀**
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=150&color=0:000000,100:434343"/>
-
-</div>
