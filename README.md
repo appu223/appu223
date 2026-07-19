@@ -193,37 +193,6 @@ https://alphonseportfolio.lovable.app/#projects
 <!--                 PART 1B - ABOUT ME                    -->
 <!-- ===================================================== -->
 
-<h2 align="center">🚀 About Me</h2>
-
-<table align="center">
-<tr>
-<td>
-
-🎨 **Graphic Designer**
-
-💻 **Front-End Developer**
-
-📱 **Responsive Web Designer**
-
-🎯 **UI/UX Designer**
-
-⚛️ **React Learner**
-
-🐍 **Python Developer**
-
-🎓 **Master of Computer Applications (MCA)**
-
-🌱 Passionate about creating beautiful and user-friendly digital experiences.
-
-</td>
-
-<td>
-
-<img src="https://github-readme-stats.vercel.app/api?username=appu223&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-</td>
-</tr>
-</table>
 
 ---
 
@@ -275,81 +244,7 @@ https://alphonseportfolio.lovable.app/#projects
 🔥 Problem Solving         █████████░░░░░ 75%
 
 🚀 Creativity              ██████████████ 100%
-```
 
----
-
-<h2 align="center">🌟 Technologies I Love</h2>
-
-<div align="center">
-
-🌐 HTML5
-
-🎨 CSS3
-
-⚡ JavaScript
-
-⚛️ React
-
-🔥 Tailwind CSS
-
-🐍 Python
-
-☕ Java
-
-🗄️ MySQL
-
-🔥 Firebase
-
-🎨 Figma
-
-🖌️ Photoshop
-
-📦 Git
-
-</div>
-
----
-
-<h2 align="center">📚 Currently Learning</h2>
-
-✔ Advanced React
-
-✔ Modern UI/UX
-
-✔ Framer Motion
-
-✔ Three.js
-
-✔ Artificial Intelligence
-
-✔ Full Stack Development
-
-✔ Advanced JavaScript
-
-✔ Firebase
-
----
-
-<h2 align="center">🎯 Career Objective</h2>
-
-<div align="center">
-
-I aspire to become a professional **UI/UX Designer** and **Front-End Developer**, building modern, scalable, and user-centric applications that combine creativity with technology.
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=appu223&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-<div align="center">
 
 ⭐ **"Design. Develop. Inspire. Repeat."** ⭐
 
