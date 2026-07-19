@@ -5,11 +5,11 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Python+Developer;Flutter+Developer;UI%2FUX+Designer;IoT+Intern;Data+Analytics+Enthusiast;Always+Learning+New+Technologies" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Python+Developer;Flutter+Developer;UI%2FUX+Designer;React+Developer;Creative+Technologist" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/AlphonseNiccori">
+  <a href="https://github.com/appu223">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
   </a>
 
@@ -21,7 +21,7 @@
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail" />
   </a>
 
-  <a href="https://alphonseportfolio.lovable.app/#projects">
+  <a href="https://alphonse-profile-mu.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel" />
   </a>
 </p>
@@ -30,7 +30,7 @@
 
 # 💫 About Me
 
-🎓 MCA Student
+🎓 MCA Student at Sacred Heart College
 
 🎓 BCA Graduate – Don Bosco College (Co-Ed), Yelagiri Hills
 
@@ -38,21 +38,21 @@
 
 📱 Flutter Developer
 
-🎨 UI/UX Designer
+🎨 UI/UX Designer & Graphic Designer
 
 🎯 Figma Designer
 
-🤖 IoT Intern
+⚛️ React Developer
 
-📊 Data Analytics Enthusiast
+💻 Frontend Developer
 
-🌱 Learning Flutter, Firebase, AI & Cloud
+🌱 Learning Advanced React, Firebase, AI & Cloud
 
-🚀 Passionate about creating real-world applications.
+🚀 Passionate about creating beautiful and user-friendly digital experiences.
 
 ---
 
-# 🚀 Current Project
+# 🚀 Current Projects
 
 ## 🛒 Smart Grocery Application
 
@@ -72,7 +72,7 @@
 # 💻 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,dart,flutter,firebase,html,css,js,mysql,git,github,figma,vscode,androidstudio" />
+<img src="https://skillicons.dev/icons?i=python,dart,flutter,react,html,css,js,firebase,mysql,git,github,figma,vscode,androidstudio,bootstrap,tailwind" />
 </p>
 
 ---
@@ -89,24 +89,22 @@ PHP • MySQL • HTML • CSS • JavaScript
 
 ## 🌐 Personal Portfolio
 
-https://alphonseportfolio.lovable.app/#projects
+https://alphonse-profile-mu.vercel.app/
 
-https://alphonse-profile-mu.vercel.app/projects.html
+https://alphonseportfolio.lovable.app/#projects
 
 ---
 
 # 📈 GitHub Stats
 
-> **Replace `YOUR_GITHUB_USERNAME` below with your exact GitHub username.**
-
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark" />
+<img src="https://github-readme-stats.vercel.app/api?username=appu223&show_icons=true&theme=github_dark" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=github-dark" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=appu223&theme=github-dark" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=github_dark" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=appu223&layout=compact&theme=github_dark" />
 </p>
 
 ---
@@ -114,7 +112,7 @@ https://alphonse-profile-mu.vercel.app/projects.html
 # 📊 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=github-compact" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=appu223&theme=github-compact" />
 </p>
 
 ---
@@ -122,18 +120,38 @@ https://alphonse-profile-mu.vercel.app/projects.html
 # 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=onedark&row=2&column=4" />
+<img src="https://github-profile-trophy.vercel.app/?username=appu223&theme=onedark&row=2&column=4" />
 </p>
 
 ---
 
-# 🐍 Contribution Snake
+# 💡 My Skills
 
-> Enable GitHub Actions to generate this automatically.
+**Frontend Development**
+- HTML, CSS, JavaScript
+- React, Bootstrap, Tailwind CSS
+- Responsive Design
 
-```html
-https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg
-```
+**Mobile Development**
+- Flutter
+- Firebase Integration
+- Provider State Management
+
+**Design**
+- UI/UX Design
+- Graphic Design
+- Figma
+
+**Backend & Database**
+- Python
+- MySQL
+- Firebase
+
+**Tools & Platforms**
+- Git & GitHub
+- VS Code
+- Android Studio
+- Figma
 
 ---
 
@@ -143,30 +161,28 @@ https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/outp
 
 📱 Phone: **+91 90920 38096**
 
-💼 LinkedIn:
-https://www.linkedin.com/in/alphonse-niccori-568b45396
+💼 LinkedIn: https://www.linkedin.com/in/alphonse-niccori-568b45396
 
-🌐 Portfolio:
-https://alphonseportfolio.lovable.app/#projects
+🌐 Portfolio: https://alphonse-profile-mu.vercel.app/
 
-🌐 Portfolio 2:
-https://alphonse-profile-mu.vercel.app/projects.html
+🌐 Portfolio 2: https://alphonseportfolio.lovable.app/#projects
 
 ---
 
 # 🎯 Goals for 2026
 
-- 🚀 Become a Flutter Developer
+- 🚀 Become an Expert Flutter Developer
 - 🤖 Learn AI & Machine Learning
 - ☁️ Master Cloud Computing
 - 💼 Build Production Apps
 - 🌍 Contribute to Open Source
+- ⚛️ Master Advanced React
 
 ---
 
 # ⭐ Quote
 
-> **Code with Passion • Design with Purpose • Build for Impact 🚀**
+> **Creativity + Technology + Innovation = Beautiful Products** 🚀
 
 ---
 
