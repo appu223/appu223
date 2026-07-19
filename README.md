@@ -189,3 +189,168 @@ https://alphonseportfolio.lovable.app/#projects
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=150&color=0:000000,100:434343"/>
 </p>
+<!-- ===================================================== -->
+<!--                 PART 1B - ABOUT ME                    -->
+<!-- ===================================================== -->
+
+<h2 align="center">🚀 About Me</h2>
+
+<table align="center">
+<tr>
+<td>
+
+🎨 **Graphic Designer**
+
+💻 **Front-End Developer**
+
+📱 **Responsive Web Designer**
+
+🎯 **UI/UX Designer**
+
+⚛️ **React Learner**
+
+🐍 **Python Developer**
+
+🎓 **Master of Computer Applications (MCA)**
+
+🌱 Passionate about creating beautiful and user-friendly digital experiences.
+
+</td>
+
+<td>
+
+<img src="https://github-readme-stats.vercel.app/api?username=appu223&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+</td>
+</tr>
+</table>
+
+---
+
+<h2 align="center">💫 Current Focus</h2>
+
+<div align="center">
+
+🌟 Learning Advanced React
+
+🎨 Building Premium UI/UX Designs
+
+🚀 Developing Interactive Websites
+
+📈 Improving Problem Solving
+
+🤖 Exploring Artificial Intelligence
+
+🌍 Building Real World Projects
+
+</div>
+
+---
+
+<h2 align="center">🛠 Tech Stack</h2>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,python,java,firebase,mysql,git,github,vscode,figma,ps"/>
+
+</div>
+
+---
+
+<h2 align="center">💡 My Skills</h2>
+
+```text
+🎨 Graphic Design          █████████████░░ 90%
+
+🎯 UI/UX Design            ████████████░░░ 88%
+
+💻 Frontend Development    ███████████░░░░ 85%
+
+⚛️ React                  ████████░░░░░░ 70%
+
+🐍 Python                 ██████████░░░░ 80%
+
+☕ Java                    ████████░░░░░░ 70%
+
+🔥 Problem Solving         █████████░░░░░ 75%
+
+🚀 Creativity              ██████████████ 100%
+```
+
+---
+
+<h2 align="center">🌟 Technologies I Love</h2>
+
+<div align="center">
+
+🌐 HTML5
+
+🎨 CSS3
+
+⚡ JavaScript
+
+⚛️ React
+
+🔥 Tailwind CSS
+
+🐍 Python
+
+☕ Java
+
+🗄️ MySQL
+
+🔥 Firebase
+
+🎨 Figma
+
+🖌️ Photoshop
+
+📦 Git
+
+</div>
+
+---
+
+<h2 align="center">📚 Currently Learning</h2>
+
+✔ Advanced React
+
+✔ Modern UI/UX
+
+✔ Framer Motion
+
+✔ Three.js
+
+✔ Artificial Intelligence
+
+✔ Full Stack Development
+
+✔ Advanced JavaScript
+
+✔ Firebase
+
+---
+
+<h2 align="center">🎯 Career Objective</h2>
+
+<div align="center">
+
+I aspire to become a professional **UI/UX Designer** and **Front-End Developer**, building modern, scalable, and user-centric applications that combine creativity with technology.
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=appu223&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+<div align="center">
+
+⭐ **"Design. Develop. Inspire. Repeat."** ⭐
+
+</div>
